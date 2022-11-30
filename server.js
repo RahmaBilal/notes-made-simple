@@ -42,3 +42,5 @@ app.delete("/api/notes/:id", (req, res) => {
   fs.writeFileSync("./db/db.json", JSON.stringify(noteArray));
   res.json(noteArray);
 });
+
+app.listen(PORT, () => console.log("Server listening on port " + PORT));
