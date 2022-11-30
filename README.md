@@ -50,6 +50,17 @@ Run the command `npm run start` in the terminal
 
 Below are the screenshots showing the functionality of the application:
 
+<img width="1440" alt="Screenshot 2022-11-30 at 23 20 41" src="https://user-images.githubusercontent.com/108250116/204929447-ce3cd2f2-ee41-4d29-9173-348f7c7c8ece.png">
+
+<img width="1440" alt="Screenshot 2022-11-30 at 23 22 34" src="https://user-images.githubusercontent.com/108250116/204929457-1dc304ea-37fa-4024-a1cc-669af3a3b7b6.png">
+
+<img width="1440" alt="Screenshot 2022-11-30 at 23 22 39" src="https://user-images.githubusercontent.com/108250116/204929462-51eaba9c-ab34-407a-af22-379b6a9ed959.png">
+
+<img width="1440" alt="Screenshot 2022-11-30 at 23 22 47" src="https://user-images.githubusercontent.com/108250116/204929482-22abb46a-7a74-48b2-b379-4f810856b25e.png">
+
+<img width="1440" alt="Screenshot 2022-11-30 at 23 22 59" src="https://user-images.githubusercontent.com/108250116/204929496-ac1d8601-8e5b-437b-876c-713fd9e890ba.png">
+
+
 ---
 
 ## Links
